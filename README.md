@@ -167,3 +167,13 @@ Search should understand both:
 
 👉 what users say
 👉 and what content actually represents
+
+What This Project Does ? 
+
+This project builds a multimodal semantic search system for images and videos using Gemini.
+
+It analyzes real media content (visual scenes, motion, and context) and transforms it into structured semantic representations. These representations are then converted into embeddings, allowing search based on meaning instead of traditional keyword matching.
+
+The system enables users to retrieve relevant content using natural language queries, even when those queries are abstract, unusual, or not explicitly present in metadata.
+
+Designed for Google Cloud environments, this project demonstrates how Gemini can be used to enhance search systems with deeper multimodal understanding.
