@@ -146,7 +146,9 @@ I would be interested in collaborating with Google to develop:
 
 **Toprak Ahmet Aydoğmuş**
 Cybersecurity Specialist & Developer
-
+https://www.linkedin.com/in/toprak-ahmet-aydoğmuş-60462534b/?locale=tr
+hopp.bio/siberegitim
+g.dev/toprakahmetaydogmus
 ---
 
 ## ⚠️ Note
