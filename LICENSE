@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+ADDITIONAL TERMS AND CONDITIONS
+​1. Mandatory Attribution: Any person or entity using, distributing, or modifying this software must provide clear and prominent attribution to the original author: Toprak Ahmet Aydoğmuş. This name must remain visible in all copies of the software, derivative works, and during its promotional distribution.
+​2. Requested Support for Project Scaling:
+The author seeks professional support and infrastructure to further develop and scale this vision. Preferred forms of support include:
+​Infrastructure: Access to high-performance computing hardware and enterprise-level AI Cloud resources to handle heavy multimodal processing.
+​AI Access: Unrestricted access to advanced LLM environments (including Claude) for continuous research and integration.
+​Collaboration: Direct mentorship or technical guidance from AI infrastructure experts (specifically Google Cloud/Vertex AI teams).
+​3. Commercial and Institutional Use:
+If this project or its core architecture is to be integrated into large-scale commercial browsers or search engines, the integrating party is requested to contact the author (Toprak Ahmet Aydoğmuş) regarding resource allocation and official partnership to ensure the project reaches its full technical potential.
